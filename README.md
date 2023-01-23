@@ -79,3 +79,5 @@ You will need to clone the repository of the project from Github. This will cont
 
 git clone https://github.com/raynesiama/printf.git
 After cloning the repository you will have a folder called printf. In here there will be several files that allow the function to work.
+
+end.
